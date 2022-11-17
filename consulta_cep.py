@@ -1,3 +1,4 @@
+#!/bin/python
 #importando as bibliotecas
 import os, requests, json
 #cores
