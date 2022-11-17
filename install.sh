@@ -48,7 +48,7 @@ pip install os
 pip install requests
 pip install json
 echo -e "${v}Bibliotecas Instaladas com SUCESSO${b}"
-#chmod +x * consulta_cep.py
+chmod +x * consulta_cep.py
 sleep 0.2
 clear
 echo -e "$v Abrindo Instagram"
